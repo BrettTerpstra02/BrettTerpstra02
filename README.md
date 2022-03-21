@@ -5,6 +5,7 @@ Canadian CS Student<br>
 <p align="center">
 
   <table>
+    <tbody>
     <tr>
       <td> 
         
@@ -17,7 +18,7 @@ Canadian CS Student<br>
         
       </td>
     </tr>
- 
+    </tbody>
   </table>
     
 </p>
