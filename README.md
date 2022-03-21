@@ -3,7 +3,8 @@ Canadian CS Student<br>
 <br>
 
 <p align="center">
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tri11Paragon&count_private=true&show_icons=true&theme=dark&layout=compact) [Paragon's github stats](https://github-readme-stats.vercel.app/api?username=Tri11Paragon&count_private=true&show_icons=true&theme=dark)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tri11Paragon&count_private=true&show_icons=true&theme=dark&layout=compact) 
+ ![Paragon's github stats](https://github-readme-stats.vercel.app/api?username=Tri11Paragon&count_private=true&show_icons=true&theme=dark)
 </p>
  
 ![Paragon's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Tri11Paragon&hide_border=true&theme=redical)
