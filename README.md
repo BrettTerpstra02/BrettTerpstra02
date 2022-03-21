@@ -2,9 +2,9 @@
 Canadian CS Student<br>
 <br>
 
-<p align="center">
+![Top Langs] <p align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tri11Paragon&count_private=true&show_icons=true&theme=dark&layout=compact) 
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Tri11Paragon&count_private=true&show_icons=true&theme=dark&layout=compact) 
     
 </p>
  
