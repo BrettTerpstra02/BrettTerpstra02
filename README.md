@@ -1,5 +1,7 @@
 <br>
-Canadian CS Student<br>
+<p align="center">
+<h1>Canadian CS Student</h1><br>
+</p>
 <br>
 
 <p align="center">
