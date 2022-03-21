@@ -8,4 +8,6 @@ Canadian CS Student<br>
 
 ![Paragon's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Tri11Paragon&hide_border=true&theme=redical)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tri11Paragon"></img>
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tri11Paragon"></img>
+</p>
