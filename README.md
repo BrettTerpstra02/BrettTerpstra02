@@ -1,6 +1,8 @@
 <br>
 <p align="center">
 <h4>Canadian CS Student</h4><br>
+<h5>Java Master<h5><br<
+<h5>Learning C++<h5><br>
 </p>
 <br>
 
