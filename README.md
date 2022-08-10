@@ -3,9 +3,9 @@
 <h4>Canadian CS Student</h4>
 <h5>Java Programmer</h5>
 <h5>Learning C++</h5>
-<p>I like graphs, so here are a few!</p>
 </p>
 <br>
+<p align="center">I like graphs, so here are a few!</p>
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tri11Paragon&count_private=true&show_icons=true&theme=dark&layout=compact">
  <img src="https://github-readme-stats.vercel.app/api?username=Tri11Paragon&count_private=true&show_icons=true&theme=dark">
