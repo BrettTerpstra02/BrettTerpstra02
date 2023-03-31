@@ -1,6 +1,6 @@
-# Welcome to my github
+# Welcome to my github!
 - Canadian CS Student
 - Java/C++ Programmer
 - Proptetually learning C++
 
-Checkout some of my repos!
+Check out some of my repos; I recommend BLT, my C++ utility library.
