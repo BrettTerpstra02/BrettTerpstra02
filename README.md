@@ -1,18 +1,6 @@
-# Welcome to the silly land :3
-Check out some of my repos or [website](https://tpgc.me/); I recommend using BLT, my C++ utility library.
+# Hello
+Check out some of my repos or [website](https://tpgc.me/).
 Note: some repos might only be available on my self-hosted git server [here](https://git.tpgc.me)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tri11Paragon&show_icons=true&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tri11Paragon&theme=radical" alt="Your GitHub Contributions" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tri11Paragon&theme=radical" alt="Your Top Languages" />
-</div>
 
 ## Pinned Repositories
 ### BLT
@@ -25,3 +13,11 @@ Note: some repos might only be available on my self-hosted git server [here](htt
 - Grade 12 Java Minecraft Clone
 ### Scripts
 - Useful scripts and files
+
+---
+Some pretty pictures
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tri11Paragon&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tri11Paragon&theme=radical" alt="Your GitHub Contributions" />
+</div>
